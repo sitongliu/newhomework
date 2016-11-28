@@ -1,0 +1,6 @@
+1.求mod的符号跟分子走
+  System.out.println(-1%-2);  // -1
+2.System.out.println(1.0%0.0); //NaN not a number
+3.System.out.println(17.1 % 4.0); // 1.1
+4."+" 除了字符串相加功能还可以把非字符串转换成字符串；
+5.向上取整方法 Ceil 向下取整 floor
